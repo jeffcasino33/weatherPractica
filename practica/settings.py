@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # GOOGLE API KEY
-GOOGLE_API_KEY = 'AIzaSyD31xF3wZ9NXyyhpUvNpfgiUfkp-oU5seU'
+GOOGLE_API_KEY = 'SET_YOUR_GOOGLE_KEY_HERE'
 
 
 # Application definition
